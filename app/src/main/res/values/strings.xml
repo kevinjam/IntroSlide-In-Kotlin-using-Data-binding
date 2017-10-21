@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!--Tutorial-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Kuagalia!</string>
+    <string name="slide_1_desc">The easiest way to validate your Seeds</string>
+
+    <string name="slide_2_title">Scan Your Seed</string>
+    <string name="slide_2_desc">Seed Check Technologies Inc. was formed in June 2016 by World Bank </string>
+
+    <string name="slide_3_title">Validate</string>
+    <string name="slide_3_desc">You can Enter a verification Code and clicking verify</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home">Home</string>
+
+    <array name="array_dot_active">
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+</resources>
